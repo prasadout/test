@@ -1,1 +1,0 @@
-kubectl run client --image=ubuntu -i -t --rm --restart=Never
